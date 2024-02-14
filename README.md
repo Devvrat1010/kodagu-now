@@ -11,33 +11,28 @@ This repository contains the source code for [Taskswift](https://taskswift.netli
 - [Node.js](https://nodejs.org/) installed on your machine
 - [npm](https://www.npmjs.com/) (Node Package Manager) installed on your machine
 
-### Installation
 
+### Development
 1. Clone the repository:
-
     ```bash
     git clone https://github.com/Devvrat1010/kodagu-frontend.git
     ```
-
-## Usage
-
-### Development
-1. Clone backend repository:
+2. go to backend folder:
    ```bash
-   git clone https://github.com/Devvrat1010/kodagu-backend.git
+   cd backend
     ```
    
-2. Install dependencies:
+3. Install dependencies:
     ```bash
     npm install
     ```
     
-3. To run the backend of the application in development mode, use the following command:
+4. To run the backend of the application in development mode, use the following command:
     ```bash
     npm start
     ```
     
-4. Api endpoint :
+5. Api endpoint :
     ```bash
     http://localhost:3000/
     ```
